@@ -1,6 +1,6 @@
 ### Creator: Aubry McConnell
 
-### Project Title: WikiBot
+### Project Title: StockPredictor
 
 #### Date: April 10, 2023
 
