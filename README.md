@@ -8,6 +8,6 @@ This is a program predicting stock prices. It will download stock data, create a
 
 This is one of my first experiences with creating a ML model from scratch. I used the pandas library, and chose the Microsoft stock as training data.
 
-To run:
+To run: reference the StockPredictor.ipynb file to see the code being ran.
 
 This program requires a Python IDE of some kind to run. It has been tested with Google Colab.
